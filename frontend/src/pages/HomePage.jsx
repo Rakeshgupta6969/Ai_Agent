@@ -47,11 +47,11 @@ function HomePage() {
               alt="AI Logo"
             />
             <h2 className="text-4xl font-bold text-gray-800">
-              Welcome to AI ChatBoat
+              Welcome to AI Agent
             </h2>
-            <h3 className="text-xl text-gray-600">Your AI friend!</h3>
+            <h3 className="text-xl text-gray-600">Your AI friend for your healthy health</h3>
             <h3 className="text-xl text-gray-600">
-              How can I assist you today?
+              How can I assist you today?,i hope you are extremely well.
             </h3>
             <div className="flex justify-center mt-8">
               <div>
